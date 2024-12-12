@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "@cypress-audit/lighthouse": "^1.4.2",
     "cypress": "^13.16.1",
     "cypress-real-events": "^1.13.0",
     "cypress-web-vitals": "^4.1.2"
