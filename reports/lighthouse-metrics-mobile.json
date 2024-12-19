@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2024-12-17T01:53:30.897Z",
+    "formFactor": "mobile",
+    "performance": 84,
+    "first-contentful-paint": 1151.5895,
+    "largest-contentful-paint": 2576.0905000000002,
+    "total-blocking-time": 412.5,
+    "cumulative-layout-shift": 0.08143557096768628,
+    "speed-index": 3327.8058084203562
+  }
+]

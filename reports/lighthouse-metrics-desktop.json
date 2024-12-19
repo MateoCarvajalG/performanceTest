@@ -1,0 +1,31 @@
+[
+  {
+    "timestamp": "2024-12-17T01:45:26.303Z",
+    "performance": 62,
+    "first-contentful-paint": 1194.1645,
+    "largest-contentful-paint": 1204.6645,
+    "total-blocking-time": 616,
+    "cumulative-layout-shift": 0.0179290690310323,
+    "speed-index": 3494.040041794873
+  },
+  {
+    "timestamp": "2024-12-17T01:52:32.793Z",
+    "formFactor": "desktop",
+    "performance": 56.99999999999999,
+    "first-contentful-paint": 2049.7379,
+    "largest-contentful-paint": 2186.7494500000003,
+    "total-blocking-time": 420,
+    "cumulative-layout-shift": 0.02968524010020436,
+    "speed-index": 2687.775821660247
+  },
+  {
+    "timestamp": "2024-12-17T01:53:16.268Z",
+    "formFactor": "desktop",
+    "performance": 57.99999999999999,
+    "first-contentful-paint": 2039.701,
+    "largest-contentful-paint": 2176.562,
+    "total-blocking-time": 388.5,
+    "cumulative-layout-shift": 0.02968524010020436,
+    "speed-index": 2843.8222742408852
+  }
+]
