@@ -8,5 +8,315 @@
     "total-blocking-time": 412.5,
     "cumulative-layout-shift": 0.08143557096768628,
     "speed-index": 3327.8058084203562
+  },
+  {
+    "timestamp": "2024-12-19T15:57:44.785Z",
+    "formFactor": "mobile",
+    "performance": 83,
+    "first-contentful-paint": 2103.6445000000003,
+    "largest-contentful-paint": 2103.6445000000003,
+    "total-blocking-time": 484,
+    "cumulative-layout-shift": 0.07391956195815136,
+    "speed-index": 2757.0881299967164
+  },
+  {
+    "timestamp": "2024-12-19T16:01:13.986Z",
+    "formFactor": "mobile",
+    "performance": 85,
+    "first-contentful-paint": 2182.2560000000003,
+    "largest-contentful-paint": 2434.2129999999997,
+    "total-blocking-time": 381.5,
+    "cumulative-layout-shift": 0.08128319648271816,
+    "speed-index": 2706.3317343064464
+  },
+  {
+    "timestamp": "2024-12-19T16:03:33.514Z",
+    "formFactor": "mobile",
+    "performance": 85,
+    "first-contentful-paint": 2175.0950000000003,
+    "largest-contentful-paint": 2421.4380000000006,
+    "total-blocking-time": 387.5,
+    "cumulative-layout-shift": 0.08128319648271816,
+    "speed-index": 2175.0950000000003
+  },
+  {
+    "timestamp": "2024-12-19T16:04:28.315Z",
+    "formFactor": "mobile",
+    "performance": 81,
+    "first-contentful-paint": 2181.115,
+    "largest-contentful-paint": 2301.5344999999998,
+    "total-blocking-time": 476.49999999999955,
+    "cumulative-layout-shift": 0.08128319648271816,
+    "speed-index": 3731.175510467167
+  },
+  {
+    "timestamp": "2024-12-19T16:08:12.479Z",
+    "formFactor": "mobile",
+    "performance": 84,
+    "first-contentful-paint": 2122.4415,
+    "largest-contentful-paint": 2429.867,
+    "total-blocking-time": 422,
+    "cumulative-layout-shift": 0.08128319648271816,
+    "speed-index": 2406.7914745660187
+  },
+  {
+    "timestamp": "2024-12-19T16:26:32.693Z",
+    "formFactor": "mobile",
+    "performance": 85,
+    "first-contentful-paint": 2128.558,
+    "largest-contentful-paint": 2211.764,
+    "total-blocking-time": 401,
+    "cumulative-layout-shift": 0.08128319648271816,
+    "speed-index": 3043.9319957744474
+  },
+  {
+    "timestamp": "2024-12-19T16:45:07.433Z",
+    "formFactor": "mobile",
+    "performance": 80,
+    "first-contentful-paint": 2120.8865,
+    "largest-contentful-paint": 2443.449,
+    "total-blocking-time": 554,
+    "cumulative-layout-shift": 0.08128319648271816,
+    "speed-index": 2120.8865
+  },
+  {
+    "timestamp": "2024-12-19T16:46:24.047Z",
+    "formFactor": "mobile",
+    "performance": 87,
+    "first-contentful-paint": 1581.893,
+    "largest-contentful-paint": 2291.307,
+    "total-blocking-time": 392,
+    "cumulative-layout-shift": 0.08128319648271816,
+    "speed-index": 2412.043616135377
+  },
+  {
+    "timestamp": "2024-12-19T16:49:03.571Z",
+    "formFactor": "mobile",
+    "performance": 84,
+    "first-contentful-paint": 2121.8205,
+    "largest-contentful-paint": 2439.6509999999994,
+    "total-blocking-time": 397,
+    "cumulative-layout-shift": 0.08128319648271816,
+    "speed-index": 2501.6200166372437
+  },
+  {
+    "timestamp": "2024-12-19T16:50:58.883Z",
+    "formFactor": "mobile",
+    "performance": 85,
+    "first-contentful-paint": 2111.8125,
+    "largest-contentful-paint": 2422.9210000000003,
+    "total-blocking-time": 382,
+    "cumulative-layout-shift": 0.08128319648271816,
+    "speed-index": 2653.9250805185916
+  },
+  {
+    "timestamp": "2024-12-19T17:03:22.892Z",
+    "formFactor": "mobile",
+    "performance": 82,
+    "first-contentful-paint": 2186.1405,
+    "largest-contentful-paint": 2586.076,
+    "total-blocking-time": 453.4999999999991,
+    "cumulative-layout-shift": 0.08128319648271816,
+    "speed-index": 2186.1405
+  },
+  {
+    "timestamp": "2024-12-19T17:04:14.161Z",
+    "formFactor": "mobile",
+    "performance": 83,
+    "first-contentful-paint": 2122.97,
+    "largest-contentful-paint": 2617.419,
+    "total-blocking-time": 410,
+    "cumulative-layout-shift": 0.08128319648271816,
+    "speed-index": 2122.97
+  },
+  {
+    "timestamp": "2024-12-19T17:05:36.875Z",
+    "formFactor": "mobile",
+    "performance": 84,
+    "first-contentful-paint": 2114.2799999999997,
+    "largest-contentful-paint": 2612.112,
+    "total-blocking-time": 391,
+    "cumulative-layout-shift": 0.08128319648271816,
+    "speed-index": 2533.811656932119
+  },
+  {
+    "timestamp": "2024-12-19T17:07:48.151Z",
+    "formFactor": "mobile",
+    "performance": 83,
+    "first-contentful-paint": 2115.828,
+    "largest-contentful-paint": 2440.076,
+    "total-blocking-time": 455,
+    "cumulative-layout-shift": 0.08128319648271816,
+    "speed-index": 2115.828
+  },
+  {
+    "timestamp": "2024-12-19T19:31:05.165Z",
+    "formFactor": "mobile",
+    "performance": 79,
+    "first-contentful-paint": 2102.81,
+    "largest-contentful-paint": 3281.5867500000004,
+    "total-blocking-time": 399.5,
+    "cumulative-layout-shift": 0.08128319648271816,
+    "speed-index": 2773.333398146183
+  },
+  {
+    "timestamp": "2024-12-19T19:34:41.758Z",
+    "formFactor": "mobile",
+    "performance": 81,
+    "first-contentful-paint": 2101.8070000000002,
+    "largest-contentful-paint": 3078.3185000000003,
+    "total-blocking-time": 398.5,
+    "cumulative-layout-shift": 0.08128319648271816,
+    "speed-index": 2700.1163078873724
+  },
+  {
+    "timestamp": "2024-12-19T19:35:16.522Z",
+    "formFactor": "mobile",
+    "performance": 85,
+    "first-contentful-paint": 2104.165,
+    "largest-contentful-paint": 2304.5525,
+    "total-blocking-time": 386,
+    "cumulative-layout-shift": 0.08128319648271816,
+    "speed-index": 2542.9867123490862
+  },
+  {
+    "timestamp": "2024-12-19T19:37:18.464Z",
+    "formFactor": "mobile",
+    "performance": 85,
+    "first-contentful-paint": 2101.9350000000004,
+    "largest-contentful-paint": 2411.9760000000006,
+    "total-blocking-time": 380,
+    "cumulative-layout-shift": 0.08128319648271816,
+    "speed-index": 2101.9350000000004
+  },
+  {
+    "timestamp": "2024-12-20T18:52:25.772Z",
+    "formFactor": "mobile",
+    "performance": 85,
+    "first-contentful-paint": 2091.6730000000002,
+    "largest-contentful-paint": 2273.858,
+    "total-blocking-time": 390,
+    "cumulative-layout-shift": 0.08128319648271816,
+    "speed-index": 3234.45400539934
+  },
+  {
+    "timestamp": "2024-12-20T19:03:12.659Z",
+    "formFactor": "mobile"
+  },
+  {
+    "timestamp": "2024-12-20T19:15:00.314Z",
+    "formFactor": "mobile",
+    "performance": 84,
+    "first-contentful-paint": 2077.624,
+    "largest-contentful-paint": 2332.49,
+    "total-blocking-time": 443.50000000000045,
+    "cumulative-layout-shift": 0.08128319648271816,
+    "speed-index": 2620.983017343514
+  },
+  {
+    "timestamp": "2024-12-20T20:53:12.224Z",
+    "formFactor": "mobile",
+    "performance": 80,
+    "first-contentful-paint": 2102.11,
+    "largest-contentful-paint": 3063.903500000001,
+    "total-blocking-time": 432.49999999999955,
+    "cumulative-layout-shift": 0.08128319648271816,
+    "speed-index": 2451.82256036539
+  },
+  {
+    "timestamp": "2024-12-20T20:56:42.779Z",
+    "formFactor": "mobile"
+  },
+  {
+    "timestamp": "2024-12-20T20:57:51.835Z",
+    "formFactor": "mobile"
+  },
+  {
+    "timestamp": "2024-12-20T21:01:50.293Z",
+    "formFactor": "mobile",
+    "performance": 26,
+    "first-contentful-paint": 8128.841999999997,
+    "largest-contentful-paint": 42652.564999999995,
+    "total-blocking-time": 471.5,
+    "cumulative-layout-shift": 0.35249513183812897,
+    "speed-index": 21412.862699648445
+  },
+  {
+    "timestamp": "2024-12-20T21:05:12.415Z",
+    "formFactor": "mobile"
+  },
+  {
+    "timestamp": "2024-12-20T21:05:59.130Z",
+    "formFactor": "mobile"
+  },
+  {
+    "timestamp": "2024-12-20T21:08:18.968Z",
+    "formFactor": "mobile",
+    "performance": 23,
+    "first-contentful-paint": 8306.400500000002,
+    "largest-contentful-paint": 43123.17050000001,
+    "total-blocking-time": 617.5000000000018,
+    "cumulative-layout-shift": 0.33335654361724687,
+    "speed-index": 20892.560195288694
+  },
+  {
+    "timestamp": "2024-12-20T22:15:33.195Z",
+    "formFactor": "mobile",
+    "performance": 85,
+    "first-contentful-paint": 2076.625,
+    "largest-contentful-paint": 2452.0119999999997,
+    "total-blocking-time": 391.5,
+    "cumulative-layout-shift": 0.08128319648271816,
+    "speed-index": 2076.625
+  },
+  {
+    "timestamp": "2024-12-20T22:29:44.829Z",
+    "formFactor": "mobile",
+    "performance": 84,
+    "first-contentful-paint": 1204.1695,
+    "largest-contentful-paint": 2650.3390000000004,
+    "total-blocking-time": 352,
+    "cumulative-layout-shift": 0.08128319648271816,
+    "speed-index": 4558.570580690843
+  },
+  {
+    "timestamp": "2024-12-20T22:33:04.773Z",
+    "formFactor": "mobile",
+    "performance": 42,
+    "first-contentful-paint": 3577.107,
+    "largest-contentful-paint": 4993.302000000001,
+    "total-blocking-time": 1048.5000000000018,
+    "cumulative-layout-shift": 0.040714895363412745,
+    "speed-index": 14459.232543426508
+  },
+  {
+    "timestamp": "2024-12-20T22:34:31.874Z",
+    "formFactor": "mobile",
+    "performance": 35,
+    "first-contentful-paint": 3567.5619999999994,
+    "largest-contentful-paint": 8902.686000000003,
+    "total-blocking-time": 1111,
+    "cumulative-layout-shift": 0.05085529105761962,
+    "speed-index": 31244.085244393136
+  },
+  {
+    "timestamp": "2024-12-20T23:20:10.704Z",
+    "formFactor": "mobile",
+    "performance": 42,
+    "first-contentful-paint": 3531.1685000000007,
+    "largest-contentful-paint": 4432.1175,
+    "total-blocking-time": 1517.5775000000067,
+    "cumulative-layout-shift": 0.03454931492274852,
+    "speed-index": 18546.951049224514
+  },
+  {
+    "timestamp": "2024-12-20T23:21:38.345Z",
+    "formFactor": "mobile",
+    "performance": 41,
+    "first-contentful-paint": 3782.1984999999995,
+    "largest-contentful-paint": 4646.767499999999,
+    "total-blocking-time": 1419.5000000000018,
+    "cumulative-layout-shift": 0.023749164210997948,
+    "speed-index": 16298.658649300485
   }
 ]
